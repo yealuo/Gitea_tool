@@ -1,0 +1,1 @@
+pyinstaller --path C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\PyQt6\Qt6\bin -F -w --icon=.\UI\gitea.ico --onefile "Gitea GUI.py"
